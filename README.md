@@ -1,5 +1,7 @@
 # vue-amplify
 
+A todo list built to try out Vue js and AWS Amplify.
+
 ## Project setup
 ```
 npm install
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
